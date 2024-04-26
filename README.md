@@ -17,7 +17,7 @@ cd ..
 
 ## Dataset
 
-Example dataset is provided [example dataset for ct2rep](https://huggingface.co/generatect/GenerateCT/tree/main). This is to show required dataset structure for CT2Rep and CT2RepLong. For full dataset, please see [CT-RATE](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE).
+Example dataset is provided [example_data_ct2rep.zip](https://huggingface.co/generatect/GenerateCT/tree/main). This is to show required dataset structure for CT2Rep and CT2RepLong. For full dataset, please see [CT-RATE](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE).
 
 ## Train
 

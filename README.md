@@ -28,6 +28,9 @@ python main.py --max_seq_length 300 --threshold 10 --epochs 100 --save_dir resul
 ```
 The threshold is the minimum number of instances in the dataset for a token to be put in the tokens dictionary. You can select the directories, xlsx files, longitudinal files, etc. with the corresponding keyword arguments.
 
+## Citing Us
+If you use CT-RATE or CT-CLIP, we would appreciate your references to [our paper](https://arxiv.org/pdf/2403.06801).
+
 ## License
 Our codes are released under a [Creative Commons Attribution (CC-BY) license](https://creativecommons.org/licenses/by/4.0/). This means that anyone is free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially, as long as appropriate credit is given, a link to the license is provided, and any changes that were made are indicated. This aligns with our goal of facilitating progress in the field by providing a resource for researchers to build upon. 
 

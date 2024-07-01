@@ -1,5 +1,5 @@
 # CT2Rep
-MICCAI 2024 paper --- CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging
+MICCAI 2024 & CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging
  
  
 ## Requirements
